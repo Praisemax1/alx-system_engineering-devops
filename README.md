@@ -1,1 +1,1 @@
-Shell basics ropo
+shell project repo
